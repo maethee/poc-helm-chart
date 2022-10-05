@@ -9,6 +9,6 @@ entries:
     name: poc-helm-chart
     type: application
     urls:
-    - poc-helm-chart-0.1.0.tgz
+    - https://maethee.github.io/poc-helm-chart/poc-helm-chart-0.1.0.tgz
     version: 0.1.0
 generated: "2022-10-05T13:03:30.1642849+07:00"
