@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  poc-helm-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-05T13:03:30.1652357+07:00"
+    description: A Helm chart for Kubernetes
+    digest: 72767472421fc6c621515ddadf244b5022f223f4317cf742b1e325709ef2809a
+    name: poc-helm-chart
+    type: application
+    urls:
+    - poc-helm-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-10-05T13:03:30.1642849+07:00"
